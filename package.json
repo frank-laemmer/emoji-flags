@@ -1,0 +1,26 @@
+{
+  "name": "emoji-flags",
+  "version": "1.0.0",
+  "description": "Poor mans CSS flag icon system",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass emoji-flags.scss -o ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank-laemmer/emoji-flags.git"
+  },
+  "keywords": [
+    "scss",
+    "emoji"
+  ],
+  "author": "Frank Lämmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frank-laemmer/emoji-flags/issues"
+  },
+  "homepage": "https://github.com/frank-laemmer/emoji-flags#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}

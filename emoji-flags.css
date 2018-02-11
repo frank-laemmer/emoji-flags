@@ -1,0 +1,339 @@
+@charset "UTF-8";
+[class^="flag-"] {
+  vertical-align: middle; }
+
+.flag-ad:after {
+  content: "🇦🇩"; }
+
+.flag-ae:after {
+  content: "🇦🇪"; }
+
+.flag-af:after {
+  content: "🇦🇫"; }
+
+.flag-al:after {
+  content: "🇦🇱"; }
+
+.flag-am:after {
+  content: "🇦🇲"; }
+
+.flag-ar:after {
+  content: "🇦🇷"; }
+
+.flag-at:after {
+  content: "🇦🇹"; }
+
+.flag-au:after {
+  content: "🇦🇺"; }
+
+.flag-ba:after {
+  content: "🇧🇦"; }
+
+.flag-bd:after {
+  content: "🇧🇩"; }
+
+.flag-be:after {
+  content: "🇧🇪"; }
+
+.flag-bg:after {
+  content: "🇧🇬"; }
+
+.flag-br:after {
+  content: "🇧🇷"; }
+
+.flag-by:after {
+  content: "🇧🇾"; }
+
+.flag-ca:after {
+  content: "🇨🇦"; }
+
+.flag-ch:after {
+  content: "🇨🇭"; }
+
+.flag-cl:after {
+  content: "🇨🇱"; }
+
+.flag-cn:after {
+  content: "🇨🇳"; }
+
+.flag-co:after {
+  content: "🇨🇴"; }
+
+.flag-cr:after {
+  content: "🇨🇷"; }
+
+.flag-cu:after {
+  content: "🇨🇺"; }
+
+.flag-cy:after {
+  content: "🇨🇾"; }
+
+.flag-cz:after {
+  content: "🇨🇿"; }
+
+.flag-de:after {
+  content: "🇩🇪"; }
+
+.flag-dk:after {
+  content: "🇩🇰"; }
+
+.flag-es:after {
+  content: "🇪🇸"; }
+
+.flag-eu:after {
+  content: "🇪🇺"; }
+
+.flag-eg:after {
+  content: "🇪🇬"; }
+
+.flag-fi:after {
+  content: "🇫🇮"; }
+
+.flag-fr:after {
+  content: "🇫🇷"; }
+
+.flag-gb:after {
+  content: "🇬🇧"; }
+
+.flag-gh:after {
+  content: "🇬🇭"; }
+
+.flag-ge:after {
+  content: "🇬🇪"; }
+
+.flag-gi:after {
+  content: "🇬🇮"; }
+
+.flag-gl:after {
+  content: "🇬🇱"; }
+
+.flag-gr:after {
+  content: "🇬🇷"; }
+
+.flag-hk:after {
+  content: "🇭🇰"; }
+
+.flag-hr:after {
+  content: "🇭🇷"; }
+
+.flag-hu:after {
+  content: "🇭🇺"; }
+
+.flag-id:after {
+  content: "🇮🇩"; }
+
+.flag-ie:after {
+  content: "🇮🇪"; }
+
+.flag-il:after {
+  content: "🇮🇱"; }
+
+.flag-in:after {
+  content: "🇮🇳"; }
+
+.flag-iq:after {
+  content: "🇮🇶"; }
+
+.flag-ir:after {
+  content: "🇮🇷"; }
+
+.flag-is:after {
+  content: "🇮🇸"; }
+
+.flag-it:after {
+  content: "🇮🇹"; }
+
+.flag-jm:after {
+  content: "🇯🇲"; }
+
+.flag-jp:after {
+  content: "🇯🇵"; }
+
+.flag-kw:after {
+  content: "🇰🇼"; }
+
+.flag-li:after {
+  content: "🇱🇮"; }
+
+.flag-lk:after {
+  content: "🇱🇰"; }
+
+.flag-lr:after {
+  content: "🇱🇷"; }
+
+.flag-lt:after {
+  content: "🇱🇹"; }
+
+.flag-lu:after {
+  content: "🇱🇺"; }
+
+.flag-lv:after {
+  content: "🇱🇻"; }
+
+.flag-ly:after {
+  content: "🇱🇾"; }
+
+.flag-ma:after {
+  content: "🇲🇦"; }
+
+.flag-mc:after {
+  content: "🇲🇨"; }
+
+.flag-md:after {
+  content: "🇲🇩"; }
+
+.flag-me:after {
+  content: "🇲🇪"; }
+
+.flag-mg:after {
+  content: "🇲🇬"; }
+
+.flag-mk:after {
+  content: "🇲🇰"; }
+
+.flag-ml:after {
+  content: "🇲🇱"; }
+
+.flag-mm:after {
+  content: "🇲🇲"; }
+
+.flag-mq:after {
+  content: "🇲🇶"; }
+
+.flag-mt:after {
+  content: "🇲🇹"; }
+
+.flag-mu:after {
+  content: "🇲🇺"; }
+
+.flag-mx:after {
+  content: "🇲🇽"; }
+
+.flag-my:after {
+  content: "🇲🇾"; }
+
+.flag-ne:after {
+  content: "🇳🇪"; }
+
+.flag-ng:after {
+  content: "🇳🇬"; }
+
+.flag-ni:after {
+  content: "🇳🇮"; }
+
+.flag-nl:after {
+  content: "🇳🇱"; }
+
+.flag-no:after {
+  content: "🇳🇴"; }
+
+.flag-np:after {
+  content: "🇳🇵"; }
+
+.flag-nz:after {
+  content: "🇳🇿"; }
+
+.flag-pa:after {
+  content: "🇵🇦"; }
+
+.flag-pe:after {
+  content: "🇵🇪"; }
+
+.flag-ph:after {
+  content: "🇵🇭"; }
+
+.flag-pk:after {
+  content: "🇵🇰"; }
+
+.flag-pl:after {
+  content: "🇵🇱"; }
+
+.flag-pr:after {
+  content: "🇵🇷"; }
+
+.flag-pt:after {
+  content: "🇵🇹"; }
+
+.flag-py:after {
+  content: "🇵🇾"; }
+
+.flag-qa:after {
+  content: "🇶🇦"; }
+
+.flag-ro:after {
+  content: "🇷🇴"; }
+
+.flag-rs:after {
+  content: "🇷🇸"; }
+
+.flag-ru:after {
+  content: "🇷🇺"; }
+
+.flag-rw:after {
+  content: "🇷🇼"; }
+
+.flag-sa:after {
+  content: "🇸🇦"; }
+
+.flag-sb:after {
+  content: "🇸🇧"; }
+
+.flag-sd:after {
+  content: "🇸🇩"; }
+
+.flag-se:after {
+  content: "🇸🇪"; }
+
+.flag-sg:after {
+  content: "🇸🇬"; }
+
+.flag-si:after {
+  content: "🇸🇮"; }
+
+.flag-sk:after {
+  content: "🇸🇰"; }
+
+.flag-sn:after {
+  content: "🇸🇳"; }
+
+.flag-so:after {
+  content: "🇸🇴"; }
+
+.flag-sv:after {
+  content: "🇸🇻"; }
+
+.flag-sy:after {
+  content: "🇸🇾"; }
+
+.flag-th:after {
+  content: "🇹🇭"; }
+
+.flag-tr:after {
+  content: "🇹🇷"; }
+
+.flag-tw:after {
+  content: "🇹🇼"; }
+
+.flag-tz:after {
+  content: "🇹🇿"; }
+
+.flag-ua:after {
+  content: "🇺🇦"; }
+
+.flag-us:after {
+  content: "🇺🇸"; }
+
+.flag-uy:after {
+  content: "🇺🇾"; }
+
+.flag-ve:after {
+  content: "🇻🇪"; }
+
+.flag-vn:after {
+  content: "🇻🇳"; }
+
+.flag-za:after {
+  content: "🇿🇦"; }
+
+.flag-ze:after {
+  content: "🇿🇼"; }

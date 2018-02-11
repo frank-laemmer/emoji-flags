@@ -1,0 +1,11 @@
+// Emojji flags
+// 112 common countries as emoji flags
+
+@import "flags-map.scss";
+
+[class^="flag-"] { vertical-align: middle; }
+
+// generate the classes from Map
+@each $name, $icon in $flags {
+  .flag-#{$name}:after { content: $icon; }
+}
